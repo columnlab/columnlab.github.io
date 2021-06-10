@@ -1,20 +1,11 @@
 ---
-title: "Teaching experience 2"
-collection: teaching
-type: "Workshop"
-permalink: /teaching/2015-spring-teaching-1
-venue: "University 1, Department"
-date: 2015-01-01
-location: "City, Country"
+title: "C. Estelle Smith"
+collection: people
+type: "Researcher"
+permalink: /people/estelle-smith
+# venue: "University 1, Department"
+# date: 2016-08-01
+# location: "Boulder, Colorado, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
-
-Heading 1
-======
-
-Heading 2
-======
-
-Heading 3
-======
+C. Estelle Smith is a post-doctoral researcher in COLUMN.
