@@ -18,4 +18,4 @@ We value your personal experiences and identity as they relate to your own use o
 
 Expect to learn how to develop new methods and conduct large-scale empirical studies in online contexts that often have crucial implications for the offline world.
 
-**Project Mentor**: Dr. Estelle Smith ([c.estelle.smith@colorado.edu](mailto:c.estelle.smith@colorado.edu))
+**Project Mentor**: Dr. [Estelle Smith](https://columnlab.github.io/people/estelle-smith) ([c.estelle.smith@colorado.edu](mailto:c.estelle.smith@colorado.edu))
