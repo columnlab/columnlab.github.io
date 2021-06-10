@@ -1,16 +1,13 @@
 ---
-title: "Genealogy UROP"
-date: 2021-06-14
+title: "Advancing Data Science of Communities on Reddit and Wikipedia"
+# date: 2021-06-14
 collection: opportunities
 permalink: /opportunities/2021-genealogy-urop
-tags:
-  - urop
-  - genealogy
+# tags:
+#   - urop
+#   - genealogy
 ---
 
-# Advancing Data Science of Communities on Reddit and Wikipedia
-
-## Description
 Are you interested in developing new methods for data scientists to understand online communities?
 
 A common way that researchers have defined online communities is to measure user’s activity in a given online space. For example, which users have joined a particular subreddit? Or which users have contributed to a particular Wikipedia article? But does this definition really capture what users care about?
