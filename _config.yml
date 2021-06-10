@@ -221,6 +221,7 @@ defaults:
       author_profile: true
       share: true
       comments: false
+      show_date: false
   # _publications
   - scope:
       path: ""
@@ -239,6 +240,7 @@ defaults:
       author_profile: true
       share: true
       comment: false
+      show_date: false
   # _resources
   - scope:
       path: ""
@@ -247,6 +249,7 @@ defaults:
       layout: single
       author_profile: true
       share: true
+      show_date: false
   # _opportunities
   - scope:
       path: ""
