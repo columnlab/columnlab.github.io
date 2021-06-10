@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "COLUMN"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Brian Keegan"
 description              : &description "personal description"
 url                      : https://columnlab.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -84,7 +84,7 @@ author:
   avatar           : "doric.jpg"
   bio              : "We are an interdisciplinary research group exploring the ecologies and relationships between users and media."
   location         : "Boulder, Colorado, USA"
-  employer         :
+  employer         : "University of Colorado Boulder"
   pubmed           : 
   googlescholar    : 
   email            :
