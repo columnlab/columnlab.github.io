@@ -1,6 +1,7 @@
 ---
 title: 'Genealogy UROP'
 date: 2021-06-14
+collection: opportunities
 permalink: /opportunities/2021-genealogy-urop
 tags:
   - urop
