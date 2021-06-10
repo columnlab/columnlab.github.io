@@ -1,7 +1,7 @@
 ---
 title: "Laurie Jones"
 collection: people
-type: "Ph.D. student"
+role: "2-Ph.D. student"
 permalink: /people/laurie-jones
 # venue: "University 1, Department"
 # date: 2016-08-01
