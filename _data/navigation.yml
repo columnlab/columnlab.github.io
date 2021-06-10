@@ -16,9 +16,4 @@ main:
     url: /resources/    
 
   - title: "Opportunities"
-    url: /opportunities/    
-  # - title: "CV"
-  #   url: /cv/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+    url: /opportunities/

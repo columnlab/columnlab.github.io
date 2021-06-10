@@ -1,7 +1,7 @@
 ---
 title: "Jordan Wirfs-Brock"
 collection: people
-type: "2-Ph.D. student"
+role: "2-Ph.D. student"
 permalink: /people/jordan-wirfs-brock
 # venue: "University 1, Department"
 # date: 2016-08-01
