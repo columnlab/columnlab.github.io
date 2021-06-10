@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Colorado Laboratory for Users, Media, and Networks"
+title                    : "COLUMN"
 title_separator          : "-"
 name                     : &name "Your Name"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "COLUMN"
+  name             : "Colorado Laboratory for Users, Media, and Networks"
   avatar           : "doric.jpg"
   bio              : "We are an interdisciplinary research group exploring the ecologies and relationships between users and media."
   location         : "Boulder, Colorado, USA"
