@@ -1,7 +1,7 @@
 ---
 title: "Brian C. Keegan"
 collection: people
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/people/brian-keegan.jpg' width='300px'>"
+excerpt: "Brian is an assistant professor and the director of COLUMN<br/><img src='/images/people/brian-keegan.jpg' width='200px'>"
 type: "Faculty"
 permalink: /people/brian-keegan
 # venue: "University 1, Department"
