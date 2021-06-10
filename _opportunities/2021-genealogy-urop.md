@@ -1,7 +1,7 @@
 ---
-title: 'Blog Post number 1'
+title: 'Genealogy UROP'
 date: 2021-06-14
-permalink: /opportunities/2021-genealogy-urop/
+permalink: /opportunities/2021-genealogy-urop
 tags:
   - urop
   - genealogy
