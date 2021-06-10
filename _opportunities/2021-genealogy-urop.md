@@ -1,12 +1,11 @@
 ---
-title: 'Genealogy UROP'
+title: "Genealogy UROP"
 date: 2021-06-14
 collection: opportunities
 permalink: /opportunities/2021-genealogy-urop
 tags:
   - urop
   - genealogy
-  - 2021
 ---
 
 # Advancing Data Science of Communities on Reddit and Wikipedia
