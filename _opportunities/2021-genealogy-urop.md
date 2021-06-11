@@ -6,7 +6,7 @@ permalink: /opportunities/2021-genealogy-urop
 tags:
   - urop
   - genealogy
-hidden: true
+published: false
 ---
 
 Are you interested in developing new methods for data scientists to understand online communities?
