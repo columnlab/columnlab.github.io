@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2"
+title: "Software patches in e-sports"
+excerpt: "How do gaming communities react to software patches?"
 collection: projects
 ---
 

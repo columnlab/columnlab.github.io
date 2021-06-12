@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2"
+title: "Conversational sonification"
+excerpt: "How can data be represented through conversational interfaces?"
 collection: projects
 ---
 

@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2"
+title: "Labor organizing in fissured workplaces"
+excerpt: "How to organize gig workers on new platforms?"
 collection: projects
 ---
 

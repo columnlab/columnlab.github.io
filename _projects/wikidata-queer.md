@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 2"
-excerpt: "Short description of portfolio item number 2"
+title: "Queer identities on Wikidata"
+excerpt: "How does Wikidata handle queer identities?"
 collection: projects
 ---
 
