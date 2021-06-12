@@ -298,3 +298,9 @@ defaults:
       comments: # true
       share: true
       related: true
+  # _people
+  - scope:
+      path: ""
+      type: people
+    values:
+      layout: single
