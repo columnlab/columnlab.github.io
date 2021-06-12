@@ -294,13 +294,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      read_time: true
-      comments: # true
       share: true
-      related: true
   # _people
   - scope:
       path: ""
       type: people
     values:
       layout: single
+      author_profile: true
