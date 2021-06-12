@@ -95,7 +95,7 @@ analytics:
 # Site Author
 author:
   name             : "Colorado Laboratory for Users, Media, and Networks"
-  avatar           : "/images/doric.jpg width='200px'"
+  avatar           : "/images/doric.jpg"
   bio              : "We are an academic research group at the [University of Colorado Boulder](https://www.colorado.edu) studying the ecologies connecting users and media."
   location         : "Boulder, Colorado, USA"
   email            :
