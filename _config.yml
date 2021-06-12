@@ -323,10 +323,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _opportunity
+  # _opportunities
   - scope:
       path: ""
-      type: opportunity
+      type: opportunities
     values:
       layout: single
       author_profile: true
