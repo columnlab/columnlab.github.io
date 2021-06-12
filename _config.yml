@@ -25,7 +25,7 @@ url                      : "https://columnlab.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "columnlab/columnlab.github.io"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : "/images/doric.jpg"
+logo                     : #"/images/doric.jpg"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
@@ -94,10 +94,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  name             : "Colorado Laboratory for Users, Media, and Networks"
+  avatar           : "/images/doric.jpg"
+  bio              : "We are an academic research group at the [University of Colorado Boulder](https://www.colorado.edu) studying the ecologies and relationships connecting users and media."
+  location         : "[Boulder, Colorado, USA](https://bouldercolorado.gov/)"
   email            :
   links:
     - label: "Email"
@@ -105,7 +105,7 @@ author:
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://columnlab.github.io"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -114,7 +114,7 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/columnlab"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
