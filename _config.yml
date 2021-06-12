@@ -302,6 +302,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      collection: people
   # _publications
   - scope:
       path: ""
@@ -309,6 +310,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      collection: publications
   # _projects
   - scope:
       path: ""
@@ -316,6 +318,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      collection: projects
   # _resources
   - scope:
       path: ""
@@ -323,6 +326,7 @@ defaults:
     values:
       layout: single
       author_profile: true
+      collection: resources
   # _opportunities
   - scope:
       path: ""
@@ -330,3 +334,4 @@ defaults:
     values:
       layout: single
       author_profile: true
+      collection: opportunities
