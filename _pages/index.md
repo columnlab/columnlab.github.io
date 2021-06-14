@@ -1,7 +1,6 @@
 ---
 permalink: /
-layout: single
-classes: wide
+layout: splash
 title: "About"
 excerpt: "About Us"
 author_profile: false
