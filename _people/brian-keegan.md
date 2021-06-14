@@ -3,6 +3,7 @@ title: "Brian C. Keegan"
 collection: people
 excerpt: "Brian is an assistant professor and the director of COLUMN"
 role: "0-Faculty"
+image: /images/people/brian-keegan.jpg
 permalink: /people/brian-keegan
 ---
 
