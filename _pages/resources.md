@@ -2,7 +2,7 @@
 layout: archive
 title: "Resources"
 permalink: /resources/
-author_profile: true
+author_profile: false
 ---
 
 {% for post in site.resources reversed %}
