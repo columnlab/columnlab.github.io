@@ -2,7 +2,7 @@
 layout: collection
 title: "Opportunities"
 permalink: /opportunities/
-author_profile: true
+author_profile: false
 collection: opportunities
 entries_layout: list
 ---
