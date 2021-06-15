@@ -7,4 +7,4 @@ permalink: /people/william-egesdal
 # location: "Boulder, Colorado, USA"
 ---
 
-Samantha Dalal is a Ph.D. student in the Department of Information Science.
+William Egesdal is a post-baccalaureate student in Computer Science.
