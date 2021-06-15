@@ -1,6 +1,6 @@
 ---
 title: "William Egesdal"
-role: "Undergraduate student"
+role: "Undergraduate"
 permalink: /people/william-egesdal
 # venue: "University 1, Department"
 # date: 2016-08-01
