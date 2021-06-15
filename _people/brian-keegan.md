@@ -1,5 +1,6 @@
 ---
 title: "Brian C. Keegan"
+collection: people
 excerpt: "Brian is an assistant professor and the director of COLUMN"
 role: "Faculty"
 permalink: /people/brian-keegan

@@ -1,7 +1,7 @@
 ---
 title: "Katy Weathington"
 collection: people
-role: "2-Ph.D. student"
+role: "Ph.D. student"
 permalink: /people/katy-weathington
 # venue: "University 1, Department"
 # date: 2016-08-01

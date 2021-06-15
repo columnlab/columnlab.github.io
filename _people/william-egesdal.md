@@ -1,8 +1,7 @@
 ---
-title: "Samantha Dalal"
-collection: people
-role: "Ph.D. student"
-permalink: /people/samantha-dalal
+title: "William Egesdal"
+role: "Undergraduate student"
+permalink: /people/william-egesdal
 # venue: "University 1, Department"
 # date: 2016-08-01
 # location: "Boulder, Colorado, USA"

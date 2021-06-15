@@ -1,7 +1,7 @@
 ---
 title: "Xiaozhe 'Arcadia' Zhang"
 collection: people
-role: "9-Alumni"
+role: "Alumni"
 permalink: /people/arcadia-zhang
 # venue: "University 1, Department"
 # date: 2016-08-01

@@ -1,7 +1,7 @@
 ---
 title: "C. Estelle Smith"
 collection: people
-role: "1-Researcher"
+role: "Researcher"
 permalink: /people/estelle-smith
 # venue: "University 1, Department"
 # date: 2016-08-01
