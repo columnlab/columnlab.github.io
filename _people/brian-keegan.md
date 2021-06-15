@@ -8,7 +8,8 @@ permalink: /people/brian-keegan
 # 	thumbnail: /images/people/brian-keegan.jpg
 # 	caption: "Something"
 header:
-	teaser: /images/people/brian-keegan.jpg
+	teaser: 
+		image: /images/people/brian-keegan.jpg
 	caption: "Something"
 ---
 
