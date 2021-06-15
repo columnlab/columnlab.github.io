@@ -8,3 +8,5 @@ entries_layout: grid
 ---
 
 This is our team!
+
+<!-- {% if page.galleries %}{% include image-gallery-index.html %}{% endif %} -->
