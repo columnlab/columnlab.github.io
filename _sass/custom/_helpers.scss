@@ -1,0 +1,9 @@
+.role-container {
+  clear: both;
+  height: auto;
+  overflow: hidden;
+  width: 100%;
+  + h2 {
+    margin-top: -1em;
+  }
+}
