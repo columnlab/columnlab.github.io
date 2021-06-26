@@ -24,7 +24,7 @@ description              : "Colorado Laboratory for Users, Media, & Networks"
 url                      : "https://columnlab.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "columnlab/columnlab.github.io"
-teaser                   : "/assets/images/500x300.png"
+teaser                   : "/images/500x300.png"
 logo                     : /images/doric.jpg
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
