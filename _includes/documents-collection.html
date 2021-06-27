@@ -1,5 +1,5 @@
 {% assign entries = site[include.collection] %}
-
+{% assign role = '' %}
 {% if include.sort_by %}
   {% assign entries = entries | sort: include.sort_by %}
 {% endif %}
@@ -8,8 +8,21 @@
   {% assign entries = entries | reverse %}
 {% endif %}
 
+
 {%- for post in entries -%}
   {%- unless post.hidden -%}
-    {% include archive-single.html %}
+    {% if role != post.role %}
+      {% if role != '' && role != post.role %}
+        </div>
+      {%- endif %}
+
+      {% assign role = post.role %}
+      <h2>{{ post.role }}</h2>
+      <div class="role-container role-{{role}}">
+    {%- endif %}
+
+    {% include person-single.html %}
+
+
   {%- endunless -%}
 {%- endfor -%}
