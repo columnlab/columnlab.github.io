@@ -273,11 +273,12 @@ collections:
     output: true
     permalink: /:collection/:path/
     sort=order:
-      - "Faculty"
-      - "Researcher"
-      - "Ph.D. student"
-      - "Undergraduate"
-      - "Alumni"
+      -role
+        - "Faculty"
+        - "Researcher"
+        - "Ph.D. student"
+        - "Undergraduate"
+        - "Alumni"
   publications:
     output: true
     permalink: /:collection/:path/
