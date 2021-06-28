@@ -5,7 +5,7 @@ permalink: /people/
 author_profile: false
 collection: people
 entries_layout: grid
-# sort_by: role
+sort_by: sort_norm
 ---
 
 This is our team!

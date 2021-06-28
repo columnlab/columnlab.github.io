@@ -2,11 +2,9 @@
 title: "C. Estelle Smith"
 collection: people
 role: "Researcher"
+sort_num: 1
 permalink: /people/estelle-smith
 headshot: /images/people/estelle-smith.jpg
-# venue: "University 1, Department"
-# date: 2016-08-01
-# location: "Boulder, Colorado, USA"
 ---
 
 C. Estelle Smith is a post-doctoral researcher in COLUMN.

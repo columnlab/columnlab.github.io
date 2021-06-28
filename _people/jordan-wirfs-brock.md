@@ -2,6 +2,7 @@
 title: "Jordan Wirfs-Brock"
 collection: people
 role: "Ph.D. student"
+sort_num: 2
 permalink: /people/jordan-wirfs-brock
 headshot: /images/people/jordan-wirfs-brock.jpg
 ---
