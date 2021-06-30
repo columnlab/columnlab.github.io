@@ -8,4 +8,4 @@ permalink: /people/brian-keegan
 headshot: /images/people/brian-keegan.jpg
 ---
 
-Brian C. Keegan is a computational social scientist and the director of COLUMN.
+Brian C. Keegan is a computational social scientist and the director of COLUMN. He received his Ph.D. from Northwestern University's [Media, Technology, and Society](https://mts.northwestern.edu/) program in 2012.
