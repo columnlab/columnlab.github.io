@@ -7,4 +7,4 @@ permalink: /people/estelle-smith
 headshot: /images/people/estelle-smith.jpg
 ---
 
-C. Estelle Smith is a post-doctoral researcher in COLUMN.
+C. Estelle Smith is a post-doctoral researcher in COLUMN. I'm a research scientist, outdoor enthusiast, and goofball all-in-one from Minneapolis, MN.
