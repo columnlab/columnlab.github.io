@@ -5,5 +5,4 @@ sort_num: 3
 permalink: /people/tamer-shahwan
 ---
 
-Tamer Shahwan is a fourth year undergraduate student in Computer Science.
-I will be receiving my BS of Science from University of Colorado Boulder.
+Tamer Shahwan is a fourth year undergraduate student at University of Colorado Boulder's College of Engineering and Applied Sciences, where he is pursuing a degree in Computer Science.
