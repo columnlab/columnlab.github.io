@@ -2,7 +2,7 @@
 title: "Tamer Shahwan"
 role: "Undergraduate"
 sort_num: 3
-excerpt: "Tamer Shahwan is an assistant researcher in COLUMN."
+excerpt: "Tamer Shahwan is an research assistant in COLUMN."
 permalink: /people/tamer-shahwan
 headshot: /images/people/Tamer-Shahwan.JPG
 ---
