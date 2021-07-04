@@ -2,7 +2,9 @@
 title: "Tamer Shahwan"
 role: "Undergraduate"
 sort_num: 3
+excerpt: "Tamer Shahwan is an assistant researcher in COLUMN."
 permalink: /people/tamer-shahwan
+headshot: /images/people/Tamer-Shahwan.JPG
 ---
 
 Tamer Shahwan is a fourth year undergraduate student at the University of Colorado Boulder's College of Engineering and Applied Science, where he is pursuing a degree in Computer Science.
