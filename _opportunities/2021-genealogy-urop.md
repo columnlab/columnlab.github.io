@@ -26,3 +26,5 @@ We value your personal experiences and identity as they relate to your own use o
 **Pay Rate**: $15/hour, 10-20 hrs/week
 
 **Project Mentor**: Dr. [Estelle Smith](https://columnlab.github.io/people/estelle-smith) ([c.estelle.smith@colorado.edu](mailto:c.estelle.smith@colorado.edu))
+
+Interested applicants should send an email to Dr. Estelle Smith. Please include your resume or CV, transcript of coursework completed, and a brief description of: (1) why you are interested in the position, (2) whether you’re more interested in a qualitative or quantitative role, and (2) how your background prepares you for success in this role. 
