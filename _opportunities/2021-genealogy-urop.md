@@ -1,6 +1,6 @@
 ---
-title: "Undergraduate or Masters Research Assistant Position: Advancing Data Science of Communities on Reddit and Wikipedia"
-date: 2021-06-09
+title: "Undergraduate Research Assistant Position: Advancing Data Science of Communities on Reddit"
+date: 2021-08-11
 collection: opportunities
 permalink: /opportunities/2021-genealogy-urop
 tags:
