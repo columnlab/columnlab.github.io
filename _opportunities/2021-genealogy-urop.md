@@ -1,5 +1,5 @@
 ---
-title: "Undergraduate Research Assistant Position: Advancing Data Science of Communities on Reddit"
+title: "PAST OPPORTUNITY: Undergraduate Research Assistant Position: Advancing Data Science of Communities on Reddit"
 date: 2021-08-11
 collection: opportunities
 permalink: /opportunities/2021-genealogy-urop
@@ -8,6 +8,7 @@ tags:
   - genealogy
 published: true
 ---
+**NOTE: THIS POSITION IS FILLED AND NO LONGER ACCEPTING NEW APPLICATIONS. Check back in the future for new opportunities.**
 
 Are you interested in developing new methods for data scientists and social scientists to understand online communities on Reddit?
 
@@ -17,7 +18,7 @@ Applicants with a background in quantitative social science methods as well as c
 
 We value your personal experiences and identity as they relate to your own use of these online spaces and communities. You will work with mentors who are dedicated to your success on this project and to your career as a junior researcher. Expect to learn how to develop new methods and conduct large-scale empirical studies in online contexts that often have crucial implications for the offline world.
 
-**Several Positions available for Fall 2021**: Desired start date in early September.
+**Positions FILLED for Fall 2021**: Check back for new opportunities in the future!
 
 **Pay Rate**: $15/hour, 10-20 hrs/week
 
