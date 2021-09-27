@@ -4,7 +4,6 @@ excerpt: "How is the cannabis industry using data science methods?"
 collection: projects
 ---
 
-## Background
 The legalization of cannabis (popularly known as marijuana) is one of the most significant shifts in public policy in the past decade. While it is still [regulated as a Schedule I controlled substance](https://www.dea.gov/drug-information/drug-scheduling) by the federal government, an increasing number of states regulate the growth, distribution, and consumption of cannabis for medical and recreational purposes. The cannabis industry employs [more than 320,000 employees](https://www.leafly.com/news/industry/cannabis-jobs-report) and has billions of dollars in revenue within the United States alone. The emergence of this "new" industry has happened in parallel with the development of data science as a set of interdisciplinary methods as well as a profession. Cannabis legalization
 
 ## Contributions
