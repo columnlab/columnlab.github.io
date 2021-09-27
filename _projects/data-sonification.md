@@ -25,11 +25,11 @@ In this project, the goal is to develop new interaction technologies for people 
 
 After these radio pieces aired, we analyzed them through a retrospective process to identify design principles that could used to adapt conversational sonification to voice assistants. This work will be published in a forthcoming issue of TOCHI.
 
-## Videos: Data and Sound recipes
+## Video: Data and Sound recipes
 
 In this video, from the Loud Numbers Sonification Festival, Jordan explains conversational sonification and presents interactive data and sound recipes in front of a live audience.
 
-[VIDEO EMBED]
+[VIDEO EMBED - Need to figure out how to do in markdown]
 
 ## Publications
 
