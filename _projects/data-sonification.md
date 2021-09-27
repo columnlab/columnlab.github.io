@@ -6,7 +6,9 @@ collection: projects
 
 ## Overview
 
-**Data sonification** is the practice of communicating data through sounds --- graphs for your ears. But unlike visualizations, which many of us have been looking at since we were young, most of us have to learn how to interpret sonifications by developing analytic listening skills. But what if a voice assistant could help you craft personalized sounds that meaningfully represent data, help you train your ear to listen to them, and respond as you ask questions about the data you are hearing? These kinds of interactions could support people as they develop new capacities to learn and think using technology, as well as encourage general audiences to engage more deeply with data and sound. This project is led by PhD candidate Jordan Wirfs-Brock through her dissertation research.
+**Data sonification** is the practice of communicating data through sounds --- graphs for your ears. But unlike visualizations, which many of us have been looking at since we were young, most of us have to learn how to interpret sonifications by developing analytic listening skills. But what if a voice assistant could help you craft personalized sounds that meaningfully represent data, help you train your ear to listen to them, and respond as you ask questions about the data you are hearing? These kinds of interactions could support people as they develop new capacities to learn and think using technology, as well as encourage general audiences to engage more deeply with data and sound.
+
+This project is led by PhD candidate Jordan Wirfs-Brock through her dissertation research, advised by Brian Keegan, Laura Devendorf, Arturo Cortez, Jofish Kaye, and Sarah Mennicken.
 
 
 ## Key Research Questions
