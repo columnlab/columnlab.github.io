@@ -7,4 +7,4 @@ permalink: /people/samantha-dalal
 headshot: /images/people/samantha-dalal.jpg
 ---
 
-Samantha Dalal is a Ph.D. student in the Department of Information Science.
+Samantha Dalal is a Ph.D. student in the Department of Information Science. She got her bachelors degree at UCSB where she double majored in Statistics and Economics.
