@@ -1,7 +1,15 @@
 ---
-title: "Queer identities on Wikidata"
+title: "Queer identities on Wikimedia Projects"
 excerpt: "How does Wikidata handle queer identities?"
 collection: projects
 ---
 
-This is an item in your portfolio. It can be have images or nice text. If you name the file .md, it will be parsed as markdown. If you name the file .html, it will be parsed as HTML. 
+
+## Background
+Wikimedia Foundation Projects, such as Wikipedia and Wikidata, compose massive, collaborative online knowledge repositories. Naturally, these databases encode critical information about queer individuals, identities, and communities. As such, understanding how queerness is treated on these platforms is important for understanding how queerness becomes data. 
+
+## Goals
+
+## Contributions
+
+
