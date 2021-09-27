@@ -10,7 +10,7 @@ The legalization of cannabis (popularly known as marijuana) is one of the most s
 We have partnered with organizations like [Steel Hill](https://www.steephill.com/) and [Leafly](https://www.leafly.com/) to collect and analyze their data. 
 
 ## Publications
-* **Keegan, B.**, Nguyen, A.N., Savage, S., Kaye, J., de Choudhury, M., & Paul, M. (2017). "[CHI-nnabis: Implications of Marijuana Legalization for and from Human-Computer Interaction](https://doi-org.colorado.idm.oclc.org/10.1145/3027063.3051139)." CHI EA '17: Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems. 1312–1317. 
+* **Keegan, B.**, Nguyen, A.N., Savage, S., Kaye, J., de Choudhury, M., & Paul, M. (2017). "[CHI-nnabis: Implications of Marijuana Legalization for and from Human-Computer Interaction](https://doi-org.colorado.idm.oclc.org/10.1145/3027063.3051139)." CHI EA '17: Proceedings of the 2017 CHI Conference Extended Abstracts on Human Factors in Computing Systems.
 * Vergara, D. Gaudino, R., Blank, T., & **Keegan, B.** (2020). "[Modeling cannabinoids from a large-scale sample of Cannabis sativa chemotypes](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0236878)." PLoS ONE.
 
 ## Pre-prints
