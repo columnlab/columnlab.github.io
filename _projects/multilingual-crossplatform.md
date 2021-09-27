@@ -16,7 +16,7 @@ The way people use the ineternet across the world is very different and one way 
 
 ## Contributions
 
-## Collaborators 
+## Collaborators
 * Brian Keegan
 * Alex Siegel 
 
