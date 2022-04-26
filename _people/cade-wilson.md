@@ -2,7 +2,7 @@
 title: "Cade Wilson"
 collection: people
 role: "Masters student"
-sort_num: 2
+sort_num: 3
 permalink: /people/cade-wilson
 headshot: /images/people/cade-wilson.jpg
 ---
