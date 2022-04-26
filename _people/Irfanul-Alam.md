@@ -3,7 +3,7 @@ title: "Irfanul Alam"
 collection: people
 role: "Ph.D. student"
 sort_num: 2
-permalink: /people/Irfanul-Alam
+permalink: /people/irfanul-alam
 headshot: /images/people/Irfanul-Alam.jpg
 ---
 

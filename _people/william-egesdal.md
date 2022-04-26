@@ -1,6 +1,6 @@
 ---
 title: "William Egesdal"
-role: "Undergraduate"
+role: "Alumni"
 sort_num: 3
 permalink: /people/william-egesdal
 ---
