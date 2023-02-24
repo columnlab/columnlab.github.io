@@ -3,6 +3,7 @@ title: "Xiaozhe 'Arcadia' Zhang"
 collection: people
 role: "Alumni"
 sort_num: 4
+excerpt: "Arcadia received a Ph.D. in Computer Science."
 permalink: /people/arcadia-zhang
 ---
 
