@@ -1,7 +1,7 @@
 ---
 title: "Tamer Shahwan"
-role: "Undergraduate"
-sort_num: 3
+role: "Alumni"
+sort_num: 4
 excerpt: "Tamer Shahwan is an research assistant in COLUMN."
 permalink: /people/tamer-shahwan
 headshot: /images/people/Tamer-Shahwan.JPG

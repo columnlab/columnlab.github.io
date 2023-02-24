@@ -2,7 +2,7 @@
 title: "C. Estelle Smith"
 collection: people
 role: "Alumni"
-sort_num: 1
+sort_num: 4
 excerpt: "Estelle Smith is a post-doctoral researcher in COLUMN."
 permalink: /people/estelle-smith
 headshot: /images/people/estelle-smith.jpg
