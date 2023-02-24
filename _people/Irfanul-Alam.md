@@ -1,8 +1,8 @@
 ---
 title: "Irfanul Alam"
 collection: people
-role: "Ph.D. student"
-sort_num: 2
+role: "Alumni"
+sort_num: 4
 permalink: /people/irfanul-alam
 headshot: /images/people/Irfanul-Alam.jpg
 ---
