@@ -9,3 +9,6 @@ headshot: /images/people/LinkedInPic-WILSON.jpg
 ---
 
 Cade Wilson is a second-year Bachelors-Accelerated Masters student in the Department of Information Science. In his research, he is interested in blockchain/AI solutions and their social and business effects as the realm evolves. He is specifically interested in decentralized communication systems and large language models. 
+
+
+https://www.linkedin.com/in/cadewilson24/
