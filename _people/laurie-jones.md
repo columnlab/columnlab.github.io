@@ -4,7 +4,7 @@ collection: people
 role: "Ph.D. student"
 sort_num: 2
 permalink: /people/laurie-jones
-headshot:/images/people/laurie-jones.jpg
+headshot: /images/people/laurie-jones.jpg
 ---
 
 Laurie Jones is a Ph.D. student in the Department of Information Science.
