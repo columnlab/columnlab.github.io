@@ -1,7 +1,7 @@
 ---
 title: "Jack Stein"
 collection: people
-role: "Faculty"
+role: "Masters Student"
 sort_num: 3
 excerpt: "Jack is a BAM Student in the Information Science department"
 permalink: /people/jack-stein
