@@ -277,6 +277,7 @@ collections:
         - "Faculty"
         - "Researcher"
         - "Ph.D. student"
+        - "Masters student"
         - "Undergraduate"
         - "Alumni"
   publications:
