@@ -2,6 +2,7 @@
 title: "Laurie Jones"
 collection: people
 role: "Ph.D. student"
+excerpt: "Laurie is a third-year Ph.D. student in Information Science"
 sort_num: 2
 permalink: /people/laurie-jones
 headshot: /images/people/laurie-jones.jpg

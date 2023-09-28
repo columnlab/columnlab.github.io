@@ -2,6 +2,7 @@
 title: "Samantha Dalal"
 collection: people
 role: "Ph.D. student"
+excerpt: "Samantha is a fourth-year Ph.D. student in Information Science"
 sort_num: 2
 permalink: /people/samantha-dalal
 headshot: /images/people/samantha-dalal.jpg

@@ -3,6 +3,7 @@ title: "Ben Emery"
 collection: people
 role: "Ph.D. student"
 sort_num: 2
+excerpt: "Ben is a first-year Ph.D. student in Information Science"
 permalink: /people/ben-emery
 headshot: /images/people/ben-emery.jpg
 ---
