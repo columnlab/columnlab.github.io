@@ -4,7 +4,7 @@ collection: people
 role: "Ph.D. student"
 sort_num: 2
 permalink: /people/ben-emery
-headshot: /images/people/ben-emery_headshot.jpg
+headshot: /images/people/ben-emery.jpg
 ---
 
 Benjamin Freixas Emery is a first-year PhD student in the Information Science Department at CU Boulder. His research, advised by Brian Keegan, surrounds the flow of conspiratorial misinformation, the strategies used to spread such misinformation and the prediction of action based on it. 
