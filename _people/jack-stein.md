@@ -2,7 +2,7 @@
 title: "Jack Stein"
 collection: people
 role: "Masters student"
-sort_num: 1
+sort_num: 3
 excerpt: "Jack is a MS Student in COLUMN"
 permalink: /people/jack-stein
 headshot: /images/people/jack-stein.jpg
