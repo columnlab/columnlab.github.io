@@ -14,7 +14,7 @@ At CU, Alex is advised by Dr. Jennifer Fitzgerald, Dr. Andrew Q. Philips, and Dr
 
 Selected papers: 
 
-Kowert, Rachel, Kilmer, Elizabeth, and **Newhouse, Alex**. (2024)"Culturally justified hate: Prevalence and mental health impact of dark participation in games." _Proceedings of the 57th Hawaii International Conference on System Sciences_. 
+Kowert, Rachel, Kilmer, Elizabeth and **Newhouse, Alex**. (2024)"Culturally justified hate: Prevalence and mental health impact of dark participation in games." _Proceedings of the 57th Hawaii International Conference on System Sciences_. 
 
 **Newhouse, Alex** and Kowert, Rachel. (2024). "Digital Games as Vehicles for Extremist Recruitment and Radicalization." _Routledge_. 
 
