@@ -3,6 +3,7 @@ title: "Natalie Castro"
 collection: people
 role: "Masters student"
 sort_num: 3
+excerpt: Natalie is an MS Student
 permalink: /people/natalie-castro
 headshot: /images/people/natalie-castro.jpg
 ---
