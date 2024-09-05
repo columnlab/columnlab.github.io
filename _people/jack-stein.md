@@ -16,6 +16,5 @@ I have always had a love for technology and all things computing which shaped my
 
 Outside the classroom, I enjoy being outdoors, skiing, and traveling, and I place great value on family. Meeting new people might be my biggest passion of all, so feel free to send a message. Let's connect and chat!
 
-[![LinkedIn](https://www.linkedin.com/in/jackhstein](https://www.linkedin.com/in/jackhstein)
-
+[www.jackhstein.com](www.jackhstein.com)
 [www.linkedin.com/in/jackhstein](https://www.linkedin.com/in/jackhstein)
