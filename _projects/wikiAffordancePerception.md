@@ -1,5 +1,5 @@
 ---
-title: "Affordance Perception Across Languages and Memories: A Study of Wikipedia Editors on the ‘Arab Spring’ Article
+title: "Affordance Perception Across Languages and Memories: A Study of Wikipedia Editors on the ‘Arab Spring’ Article"
 excerpt: "How is the cannabis industry using data science methods?"
 collection: projects
 ---
